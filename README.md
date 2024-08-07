@@ -14,9 +14,7 @@ Weather Dashboard is a web application that allows users to search for weather i
 
 ## Screenshots
 
-[Add a screenshot of the main application interface here]
-
-[Add a screenshot of the weather forecast display here]
+![Cloud Cast screenshot](./assets/WebApp%20ScreenShot.png)
 
 ## Technologies Used
 
